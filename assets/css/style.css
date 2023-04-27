@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo i {
+    font-size: 3em;
+}
+
+.datos input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.btn {
+    background: linear-gradient(80deg, purple, blue);
+}
+
+.mensaje h3 {
+    background: linear-gradient(80deg, rgb(255, 155, 186), rgb(51, 5, 95) 70%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
